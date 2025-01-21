@@ -18,4 +18,5 @@ This project showcases a simple and functional Internship Application Form built
 ## Future Enhancements
 - Add CSS for better styling.
 - Integrate JavaScript for form validation.
-  
+- Enable server-side processing using PHP or Node.js.
+
