@@ -9,7 +9,10 @@ This project showcases a simple and functional Internship Application Form built
 2. Open the `index.html` file in a web browser.
 3. Fill out the form and click submit (requires server-side processing for submission).
 ## Screenshots
-![Form Preview](screenshots/form_preview.png)
+![Form Preview](\Screenshot 2025-01-21 154706.png)
+![Form Preview](\Screenshot 2025-01-21 154746.png)
+![Form Preview](\Screenshot 2025-01-21 155003.png)
+
 ## Technologies Used
 - HTML5
 ## Future Enhancements
